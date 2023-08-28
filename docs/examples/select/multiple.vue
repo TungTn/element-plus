@@ -80,12 +80,12 @@ const value3 = ref([])
 const value4 = ref([])
 const options = [
   {
-    value: 'Option1',
-    label: 'Option1',
+    value: 'Option1 Option1 Option1 Option1 ',
+    label: 'Option1 Option1 Option1 Option1',
   },
   {
-    value: 'Option2',
-    label: 'Option2',
+    value: 'Option2 Option2 Option2 Option2',
+    label: 'Option2 Option2 Option2 Option2 ',
   },
   {
     value: 'Option3',
